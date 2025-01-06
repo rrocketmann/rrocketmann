@@ -5,7 +5,7 @@
 - 📫 How to reach me: schroddacat@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do physics!
-- ## :suspect::
+- # :suspect:
 
 <!---
 rrocketmann/rrocketmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
